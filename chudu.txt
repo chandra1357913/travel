@@ -1,0 +1,7 @@
+First time
+git config --global user.email "chandra1357913@gmail.com"
+Git clone link, Git checkout -b Impp_komala, Git Branch,Git status;
+
+Second Time
+I need to modify files, Git status,Git add, Git commit -m "adding new files", Git push origin My own branch(Impp_komala);
+
